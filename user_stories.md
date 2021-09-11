@@ -24,7 +24,7 @@
   - Time Bound → la tâche a une durée de travail connue et limitée.
 ```
 
-### En tant qu'utilisateur
+### En tant qu'utilisateur (tuteur et élève)
 
 - [ ] Je peux créer un nouveau compte pour participer à la plateforme.
 
